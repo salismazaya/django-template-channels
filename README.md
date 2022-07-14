@@ -1,0 +1,1 @@
+# django asgi + django channels + tailwind + alpinejs
